@@ -1,3 +1,5 @@
+> **Archived reference fork.** This copy is no longer maintained. Visit the [original project](https://github.com/poteto/hiring-without-whiteboards) for its current content and contribution guidance. For Android and AI learning, visit [Android Engineers Academy](https://www.androidengineers.in/roadmap).
+
 > **About this fork:** This repository is an Android Engineers fork of [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards). Original content and attribution are preserved. Check the upstream repository for its current content and contribution guidance.
 
 # Hiring Without Whiteboards
